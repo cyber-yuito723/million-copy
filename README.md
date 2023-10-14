@@ -5,7 +5,7 @@
 
 <h2>ダウンロード</h2>
 <p>
-　<a href = "https://github.com/cyber-yuito723/million-copy/releases/download/v1.0.0/million-copy-v1.0.0.zip">こちら</a>からダウンロードしてください。
+　<a href = "https://github.com/cyber-yuito723/million-copy/releases/download/v1.0.0/million-copy-v1.0.0.zip">こちら</a>からダウンロードできます。
 </p>
 
 <h2>使用方法</h2>
