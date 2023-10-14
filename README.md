@@ -20,7 +20,7 @@
 
 <h3>Windowsの場合</h3>
 <p>
-　<code>windows</code>フォルダで<code>run.bat</code>を実行します。コマンドプロンプトもしくはパワーシェルで実行する場合は以下のコマンドで実行します。
+　<code>windows</code>フォルダで<code>run.bat</code>を実行します。コマンドプロンプトもしくはパワーシェルで実行する場合は、以下のコマンドで実行します。
 </p>
 <pre>./run.bat</pre>
 <P>
